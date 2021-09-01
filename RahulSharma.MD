@@ -86,9 +86,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Atheeth Kaup Says:
+####  Man who follow a system with disciple.
+##### Thank you for inspiring, guiding us and making our life easy. Will miss you.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
