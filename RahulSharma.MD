@@ -86,9 +86,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Param Says:
+####  Definition for a Discipline 
+##### You are very good , Friend,Colleague,Mentor,Engineer,Philosopher that only very lucky ones get a chance to work with you. 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
