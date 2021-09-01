@@ -86,19 +86,27 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### Param Says:
-####  Definition for a Discipline 
-##### You are very good , Friend,Colleague,Mentor,Engineer,Philosopher that only very lucky ones get a chance to work with you. 
+### Poornima Says:
+#### Missing a great Pillar to the Team 
+##### You are a talented, multi tasker and hard working guy. Its a great learning working with you and you are really a source of inspiration for me. Wish you all the best for your future endeavours and do keep in touch.  
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Atheeth Kaup Says:
+####  Man who follow a system with disciple.
+##### Thank you for inspiring, guiding us and making our life easy. Will miss you.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
+
+### Param Says:
+####  Definition for a Discipline 
+##### You are very good Friend, Colleague, Mentor, Engineer, Philosopher that only very lucky ones get a chance to work with you. 
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
+
 ![bg](#123)
 ![](#fff)
 
