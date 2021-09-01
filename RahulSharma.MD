@@ -86,9 +86,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Poornima Says:
+#### Missing a great Pillar to the Team 
+##### You are a talented, multi tasker and hard working guy. Its a great learning working with you and you are really a source of inspiration for me. Wish you all the best for your future endeavours and do keep in touch.  
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
