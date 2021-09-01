@@ -86,9 +86,9 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-### your name Says:
-####  headline you want to give
-##### your message
+### Kanhaiya Kumar Ary Says:
+####  Mr. Goto Person
+##### You are amazing, A great guide, Tech Guru with high level of patience. you made me to learn that you can be calm composed and focused on your assginment and Goal. Very open to give/take feedbacks. Working with you was always great priveledge and hope our lines crosses soon. Wish you the best of luck for your continued success journey. :-)
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
