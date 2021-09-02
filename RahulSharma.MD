@@ -121,6 +121,13 @@ footer: "Rahul Sharma Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
+### Veena Manohar Says:
+#### Perfectionist and Resolver
+##### you are just perfect in all aspects like in resolving issues,managing the team,maintainting the business contacts and among all your superb in consistent learning! Your are great inspiration to us! All the very best for your future successful journey in different path. :)
+<!-- _class: lead -->
+<style scoped> { font-size:24px;}</style>
+---
+
 ![bg](#123)
 ![](#fff)
 
