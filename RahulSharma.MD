@@ -135,9 +135,10 @@ footer: "Rahul Sharma Rocks :heart:"
 ![bg 80% opacity ](https://cdp.azureedge.net/products-private/prod/b85c66d2-a7e7-45eb-b7ad-cb74fbc7d77f/e84411b3-3c44-43d0-a7be-ac7901602bfa/00000000-0000-0000-0000-000000000000/9986bbaa-ce48-4289-8b3c-ac6f0029acec/2ac41368-60ae-4b50-a7cc-ad6400fc8e20/6000000001.jpg)
 ### Mike Franzen Says:
 #### Epitomy of Engineering Excellence
-##### Few people combine endless couriosity, boundless energy, limitless creativity, and bottomless waelth of knowledge with a calm, professional disposition.  You have all of these qualities and more.  I always say "it is a small IT world".  I look forward to paths crossing again! Keep rocking Rahul
+##### Few people combine endless couriosity, boundless energy, limitless creativity, and bottomless wealth of knowledge with a calm, professional disposition.  You have all of these qualities and more.  I always say "it is a small IT world".  I look forward to paths crossing again! Keep rocking Rahul
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
+---
 ![bg](#123)
 ![](#fff)
 
