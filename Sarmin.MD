@@ -56,8 +56,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity ](https://stickybranding.com/wp-content/uploads/2010/05/smart-dedicated-hardworking.jpg)
 
 ### Arun Nulu Says:
-####  
-##### 
+####  Great Team Player , Tech Geek and Good Friend.
+##### It was great working with you Sarmin , I remember how many extended hours we worked together to deliver key capabiliites , you never complained . Your passion towards work and dedication always suprises me.You are always approchable and ready to help.Keep rocking and be in touch
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
