@@ -65,8 +65,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity blur](https://www.blueline.ca/wp-content/uploads/2019/05/8462441f2a27d8cdd8b6b8f475b97ecb.jpg)
 
 ### Md Tamim Mandal:
-####  
-##### 
+#### A Good Colleague and Friend! 
+##### It was a wonderful time working with you for more than 3 years.As a coworker I wish to work with you again and apprecite your quality of work,hardwork and super helpful nature.Keep positively impacting others around with your humble attitude and appreciative nature.All the very best for your new role Sarmin... :)   
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
