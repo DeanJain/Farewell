@@ -122,8 +122,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity ](http://www.selfvirtue.com/wp-content/uploads/2017/03/superhero-costumes-for-men.jpg)
 
 ### Kanhaiya Kumar Says:
-####  
-##### 
+####  A marvelous colleague. You are rare!!!
+##### It will be very difficult to fill the void left by you here at Blaze! you are helpful, encouraging, and supportive.The knowledge that you shared with us and the learning you bought cannot be compared with anything. You’re a true friend and having you as a colleague was a great experience. wish you all the best to achieve new heights of success in your carrier. Gonna miss your fun here. 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
