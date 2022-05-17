@@ -114,8 +114,9 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity blur](https://www.stevenswonderblogs.com/wp-content/uploads/2018/12/discipline-300x300.jpg)
 
 ### Param Says:
-####  
-##### 
+####  Sarmin = (GRS) Gateway Respects Sarmin !
+##### It was really nice working with you Sarmin ! You are a very good Leader, Colleague, Friend, Mentor and Awesome Person. You are one of the examples for one can work on multiple things and can know everything better.
+
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
