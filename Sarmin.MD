@@ -100,8 +100,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity blur](https://www.stevenswonderblogs.com/wp-content/uploads/2018/12/discipline-300x300.jpg)
 
 ### Atheeth Kaup Says:
-####  
-##### 
+####  Super Women
+##### You are a very modest , respectful person and a very good team player. Thank you for motivating and supporting me. Hope to see you in some cross fit gyms hustling for that muscle and pushing me for more.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
