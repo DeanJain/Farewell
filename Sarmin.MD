@@ -35,7 +35,7 @@ footer: "Sarmin Rocks :heart:"
 
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity ](https://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/what-is-a-pillar-page-seo.png)
+![bg 90% opacity ](https://previews.123rf.com/images/drawlab19/drawlab191610/drawlab19161000031/67735421-vektor-hand-gezeichnete-meisterskizze-sportler-oder-fu%C3%9Fballspieler-der-in-der-hand-mit-siegescup-auf.jpg)
 
 ### Rahul Kumar Says:
 #### Sarmin = GRS Champ
@@ -53,7 +53,7 @@ footer: "Sarmin Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 ---
 
-![bg 80% opacity ](https://stickybranding.com/wp-content/uploads/2010/05/smart-dedicated-hardworking.jpg)
+![bg 80% opacity ](https://executivesupportmagazine.com/wp-content/uploads/2021/02/xiii.-id664501420.jpg)
 
 ### Arun Nulu Says:
 ####  Great Team Player , Tech Geek and Good Friend.
@@ -62,7 +62,7 @@ footer: "Sarmin Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://www.blueline.ca/wp-content/uploads/2019/05/8462441f2a27d8cdd8b6b8f475b97ecb.jpg)
+![bg 80% opacity blur](https://www.messiah.edu/images/resized_1.jpg)
 
 ### Md Tamim Mandal:
 #### A Good Colleague and Friend! 
@@ -71,15 +71,7 @@ footer: "Sarmin Rocks :heart:"
 <style scoped> { font-size:24px;}</style>
 
 ---
-![bg 80% opacity ](https://www.wikihow.com/images/thumb/9/96/Be-Knowledgeable-Step-1-Version-3.jpg/aid161148-v4-728px-Be-Knowledgeable-Step-1-Version-3.jpg.webp)
-
-### < > Says :
-####  
-##### 
-<!-- _class: lead -->
-<style scoped> { font-size:24px;}</style>
----
-![bg 80% opacity blur](https://www.franksonnenbergonline.com/wp-content/uploads/2021/04/image_how-to-prove-that-youre-dependable.jpg)
+![bg 80% opacity blur](https://tedxwinterpark.com/wp-content/uploads/2019/12/10-Benefits-of-Being-A-Good-Human.jpg)
 
 ### Ruchika Dakalia Says:
 ####  A superb human being!
@@ -88,7 +80,7 @@ footer: "Sarmin Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity ](https://assets.entrepreneur.com/content/3x2/2000/20190812184546-GettyImages-1009803562.jpeg)
+![bg 80% opacity ](https://cdn2.hubspot.net/hubfs/53/00-Blog_Thinkstock_Images/what-is-a-pillar-page-seo.png)
 
 ### Poornima Says:
 #### Sarmin = Pillar of GRS
@@ -97,7 +89,7 @@ footer: "Sarmin Rocks :heart:"
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
-![bg 80% opacity blur](https://www.stevenswonderblogs.com/wp-content/uploads/2018/12/discipline-300x300.jpg)
+![bg 80% opacity blur](https://media.istockphoto.com/vectors/superhero-woman-in-flight-attractive-young-caucasian-woman-wearing-vector-id916664406)
 
 ### Atheeth Kaup Says:
 ####  Super Women
@@ -147,6 +139,6 @@ footer: "Sarmin Rocks :heart:"
 <br><br><br><br>
 <br>
 
-### Thanks so much Sarmin again for all your efforts, hardwork and collaboration ! :ok_hand::blush: Keep Rocking !
+### Thanks so much Sarmin for all your efforts, hardwork and collaboration ! :ok_hand::blush: Keep Rocking ! I'm sure our paths will cross again...
 
  :heart::purple_heart::green_heart::blue_heart:
