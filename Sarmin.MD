@@ -91,8 +91,9 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity ](https://assets.entrepreneur.com/content/3x2/2000/20190812184546-GettyImages-1009803562.jpeg)
 
 ### Poornima Says:
-#### 
-##### 
+#### Sarmin = Pillar of GRS
+##### You are a woman of great patience, very polite, helpful and multitasker. Great colleague and friend in my life. Miss you lot Sarmin! Wish you all the best for your future Endeavours.
+
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
@@ -132,8 +133,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity ](https://miro.medium.com/max/2880/1*a911Z2_Di2fK7z7Qfg5r_A.jpeg)
 
 ### Veena Manohar Says:
-#### 
-##### 
+#### Good Homo Sapien !
+##### It was great working with you, the way you explain code lines to QA with so much patience thats really awesome. I miss the evening walks and our discussions.All the very best for your new role.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 
