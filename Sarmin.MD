@@ -47,8 +47,8 @@ footer: "Sarmin Rocks :heart:"
 ![bg 80% opacity ](https://images.unsplash.com/photo-1499810631641-541e76d678a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80)
 
 ### Edwin Hung Says:
-####  
-##### 
+####  Champion Great mentor Great friend
+#####  Super happy to have work with you Sarmin.  You know so much and you are so kind.  You sound like a young lady but your experience shows otherwise.  Your knowledge trimphs and your personality nurtures.  We will definitely keep in touch.  I know you will do great in a new place!  take care and keep striving.  Thank you so much for always giving time for helping me.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 ---
