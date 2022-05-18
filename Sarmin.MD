@@ -57,7 +57,7 @@ footer: "Sarmin Rocks :heart:"
 
 ### Arun Nulu Says:
 ####  Great Team Player , Tech Geek and Good Friend.
-##### It was great working with you Sarmin , I remember how many extended hours we worked together to deliver key capabiliites , you never complained . Your passion towards work and dedication always suprises me.You are always approchable and ready to help.Keep rocking and be in touch
+##### It was great working with you Sarmin , I remember how many extended hours we worked together to deliver key capabilities , you never complained . Your passion towards work and dedication always surprises me.You are always approachable and ready to help.Keep rocking and be in touch
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
@@ -66,7 +66,7 @@ footer: "Sarmin Rocks :heart:"
 
 ### Md Tamim Mandal:
 #### A Good Colleague and Friend! 
-##### It was a wonderful time working with you for more than 3 years.As a coworker I wish to work with you again and appreciate your quality of work,hardwork and super helpful nature.Keep positively impacting others around with your humble attitude and appreciative nature.All the very best for your new role Sarmin... :)   
+##### It was a wonderful time working with you for more than 3 years. As a coworker I wish to work with you again and appreciate your quality of work, hardwork and super helpful nature.Keep positively impacting others around with your humble attitude and appreciative nature. All the very best for your new role Sarmin... :)   
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 
@@ -92,7 +92,7 @@ footer: "Sarmin Rocks :heart:"
 
 ### Poornima Says:
 #### Sarmin = Pillar of GRS
-##### You are a woman of great patience, very polite, helpful and multitasker. Great colleague and friend in my life. Miss you lot Sarmin! Wish you all the best for your future Endeavours.
+##### You are a woman of great patience, very polite, helpful and multi-tasker. Great colleague and friend in my life. Miss you lot Sarmin! Wish you all the best for your future endeavors.
 
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
@@ -134,18 +134,10 @@ footer: "Sarmin Rocks :heart:"
 
 ### Veena Manohar Says:
 #### Good Homo Sapien !
-##### It was great working with you, the way you explain code lines to QA with so much patience thats really awesome. I miss the evening walks and our discussions.All the very best for your new role.
+##### It was great working with you, the way you explain code lines to QA with so much patience thats really awesome. I miss the evening walks and our discussions. All the very best for your new role.
 <!-- _class: lead -->
 <style scoped> { font-size:24px;}</style>
 
----
-![bg 80% opacity ](https://cdp.azureedge.net/products-private/prod/b85c66d2-a7e7-45eb-b7ad-cb74fbc7d77f/e84411b3-3c44-43d0-a7be-ac7901602bfa/00000000-0000-0000-0000-000000000000/9986bbaa-ce48-4289-8b3c-ac6f0029acec/2ac41368-60ae-4b50-a7cc-ad6400fc8e20/6000000001.jpg)
-
-### < > Says :
-#### 
-##### 
-<!-- _class: lead -->
-<style scoped> { font-size:24px;}</style>
 ---
 ![bg](#123)
 ![](#fff)
